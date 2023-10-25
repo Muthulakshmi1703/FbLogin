@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-25T16:17:35Z" name="Suite" finished-at="2023-10-25T16:18:32Z" duration-ms="57139">
+    <groups>
+    </groups>
+    <test started-at="2023-10-25T16:17:35Z" name="Test" finished-at="2023-10-25T16:18:32Z" duration-ms="57139">
+      <class name="com.testng.dataprovider.excel.Sample">
+        <test-method signature="TestLogin(java.lang.String, java.lang.String)[pri:0, instance:com.testng.dataprovider.excel.Sample@76a2ddf3]" started-at="2023-10-25T16:17:36Z" name="TestLogin" data-provider="loginData" finished-at="2023-10-25T16:18:09Z" duration-ms="32809" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Muthu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[muthu123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method signature="TestLogin(java.lang.String, java.lang.String)[pri:0, instance:com.testng.dataprovider.excel.Sample@76a2ddf3]" started-at="2023-10-25T16:18:09Z" name="TestLogin" data-provider="loginData" finished-at="2023-10-25T16:18:21Z" duration-ms="11570" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shanthi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shanthi123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method signature="TestLogin(java.lang.String, java.lang.String)[pri:0, instance:com.testng.dataprovider.excel.Sample@76a2ddf3]" started-at="2023-10-25T16:18:21Z" name="TestLogin" data-provider="loginData" finished-at="2023-10-25T16:18:32Z" duration-ms="11380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Siva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[siva123s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+      </class> <!-- com.testng.dataprovider.excel.Sample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
